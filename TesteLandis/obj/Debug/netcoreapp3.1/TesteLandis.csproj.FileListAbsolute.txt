@@ -1,0 +1,15 @@
+C:\Users\renan\source\repos\TesteLandis\TesteLandis\bin\Debug\netcoreapp3.1\TesteLandis.exe
+C:\Users\renan\source\repos\TesteLandis\TesteLandis\bin\Debug\netcoreapp3.1\TesteLandis.deps.json
+C:\Users\renan\source\repos\TesteLandis\TesteLandis\bin\Debug\netcoreapp3.1\TesteLandis.runtimeconfig.json
+C:\Users\renan\source\repos\TesteLandis\TesteLandis\bin\Debug\netcoreapp3.1\TesteLandis.runtimeconfig.dev.json
+C:\Users\renan\source\repos\TesteLandis\TesteLandis\bin\Debug\netcoreapp3.1\TesteLandis.dll
+C:\Users\renan\source\repos\TesteLandis\TesteLandis\bin\Debug\netcoreapp3.1\TesteLandis.pdb
+C:\Users\renan\source\repos\TesteLandis\TesteLandis\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\renan\source\repos\TesteLandis\TesteLandis\obj\Debug\netcoreapp3.1\TesteLandis.csprojAssemblyReference.cache
+C:\Users\renan\source\repos\TesteLandis\TesteLandis\obj\Debug\netcoreapp3.1\TesteLandis.AssemblyInfoInputs.cache
+C:\Users\renan\source\repos\TesteLandis\TesteLandis\obj\Debug\netcoreapp3.1\TesteLandis.AssemblyInfo.cs
+C:\Users\renan\source\repos\TesteLandis\TesteLandis\obj\Debug\netcoreapp3.1\TesteLandis.csproj.CoreCompileInputs.cache
+C:\Users\renan\source\repos\TesteLandis\TesteLandis\obj\Debug\netcoreapp3.1\TesteLandis.csproj.CopyComplete
+C:\Users\renan\source\repos\TesteLandis\TesteLandis\obj\Debug\netcoreapp3.1\TesteLandis.dll
+C:\Users\renan\source\repos\TesteLandis\TesteLandis\obj\Debug\netcoreapp3.1\TesteLandis.pdb
+C:\Users\renan\source\repos\TesteLandis\TesteLandis\obj\Debug\netcoreapp3.1\TesteLandis.genruntimeconfig.cache
